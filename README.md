@@ -43,9 +43,3 @@ Include:
 - this **README.md**
 - the **`.m`** file
 - the saved figure at `figures/pipeline.png` (after you run the script)
-
-**Submit only the GitHub URL.**
-
----
-
-*Pack created on 2025-11-02.*
